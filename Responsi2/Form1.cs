@@ -7,7 +7,7 @@ namespace Responsi2
     public partial class Form1 : Form
     {
         private NpgsqlConnection conn;
-        private string connstring = "Host=localhost;Username=your_username;Password=your_password;Database=your_database";
+        private string connstring = "Host=localhost;Username=diahayuuu;Password=Diahayu1234_;Database=Responsi";
         private string sql;
         private NpgsqlCommand cmd;
         private DataGridViewRow r;
